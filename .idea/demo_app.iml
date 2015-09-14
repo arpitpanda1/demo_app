@@ -137,7 +137,7 @@
     <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, RVM: ruby-1.9.3-p551 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.1, RVM: ruby-1.9.3-p551 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="journey (v1.0.4, RVM: ruby-1.9.3-p551 [rails3tutorial2ndEd]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v3.1.4, RVM: ruby-1.9.3-p551 [rails3tutorial2ndEd]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v2.0.1, RVM: ruby-1.9.3-p551 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.8.3, RVM: ruby-1.9.3-p551 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.5.4, RVM: ruby-1.9.3-p551 [rails3tutorial2ndEd]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.25.1, RVM: ruby-1.9.3-p551 [rails3tutorial2ndEd]) [gem]" level="application" />
